@@ -16,13 +16,11 @@
 
 ###
 - 🙋‍♂️ I'm Computer Science Undergrad.
+- ✨ I'm learning & working on "Web & Mobile App Development".
 - 💻 The tech I'm interested:
-   - Blockchain.
-   - Machine Learning.
    - Cloud Computing. 
+   - Machine Learning.
    - Artificial Intelligence. 
-- ✨ I'm learning Web & Mobile App Development, React and much more.
-<br />
 
 ---
 
