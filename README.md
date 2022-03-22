@@ -16,7 +16,7 @@
 <p align="center">
 </p>
 
-<img align="right" alt="GIF" src="coding-gif-tenor.gif" width="400" height="260" />
+<img align="right" alt="GIF" src="coding-gif-tenor.gif" width="250" height="160" />
 <br />
 
 ###
