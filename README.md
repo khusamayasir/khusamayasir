@@ -8,17 +8,16 @@
 <a href="https://www.instagram.com/khusamayasir/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 </p>
 <br />
----
-<img align="right" alt="GIF" src="code1" width="500" height="320" />
 
 <h2 align="center">About me 😇</h2>
 <p align="center">
-Timezone: Pakistan/Karachi (CEST)
+
 </p>
 <br />
 - 🙋‍♂️ I'm Computer Science Undergrad.
 - 💻 The tech I'm interested are Cloud Computing, Artificial Intelligence, Blockchain and Machine Learning.
 - ✨ I'm learning Web & Mobile App Development, React and much more.
+<img align="right" alt="GIF" src="code1.gif" width="500" height="320" />
 
 ---
 <br />
