@@ -7,15 +7,14 @@
 <a href="https://www.facebook.com/khusamayasir"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://www.instagram.com/khusamayasir/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 </p>
-<br />
 
 ---
-
+<br />
 <h2 align="center">About me 😇</h2>
 <p align="center">
 </p>
 <img align="right" alt="GIF" src="coding-gif-tenor.gif" width="250" height="160" />
-<br />
+
 ###
 - 🙋‍♂️ I'm Computer Science Undergrad.
 - 💻 The tech I'm interested are Cloud Computing, Artificial Intelligence, Blockchain and Machine Learning.
