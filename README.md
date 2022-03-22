@@ -12,7 +12,7 @@
 <h2 align="center">About me 😇</h2>
 <p align="center">
 </p>
-<img align="right" alt="GIF" src="coding-gif-tenor.gif" width="350" height="240" />
+<img align="right" alt="GIF" src="coding-gif-tenor.gif" width="350" height="220" />
 
 ###
 - 🙋‍♂️ I'm Computer Science Undergrad.
