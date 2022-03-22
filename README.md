@@ -9,34 +9,33 @@
 </p>
 <br />
 
-### A Student, Developer & Tech Enthusiast
-
+---
 
 <h2 align="center">About me 😇</h2>
 <p align="center">
 </p>
-
 <img align="right" alt="GIF" src="coding-gif-tenor.gif" width="250" height="160" />
 <br />
-
 ###
 - 🙋‍♂️ I'm Computer Science Undergrad.
 - 💻 The tech I'm interested are Cloud Computing, Artificial Intelligence, Blockchain and Machine Learning.
 - ✨ I'm learning Web & Mobile App Development, React and much more.
+<br />
 
 ---
+
 <br />
 <p>
 <h3 align="center"> Languages and Tools</h3>
 </p>
 <br />
 <p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cplusplus" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp" width="40" height="40"/>
 <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
    </p>
 
