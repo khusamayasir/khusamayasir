@@ -8,8 +8,7 @@
 <a href="https://www.instagram.com/khusamayasir/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 </p>
 
----
-<br />
+
 <h2 align="center">About me 😇</h2>
 <p align="center">
 </p>
