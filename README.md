@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=khusamayasir&theme=gruvbox&show_icons=true" width="410"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khusamayasir&layout=compact&theme=gruvbox" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=khusamayasir&theme=gruvbox&show_icons=true" width="410"/>
 </p>
