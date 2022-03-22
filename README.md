@@ -16,7 +16,11 @@
 
 ###
 - 🙋‍♂️ I'm Computer Science Undergrad.
-- 💻 The tech I'm interested are Cloud Computing, Artificial Intelligence, Blockchain and Machine Learning.
+- 💻 The tech I'm interested:
+   - Blockchain.
+   - Machine Learning.
+   - Cloud Computing. 
+   - Artificial Intelligence. 
 - ✨ I'm learning Web & Mobile App Development, React and much more.
 <br />
 
