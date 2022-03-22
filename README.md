@@ -11,13 +11,15 @@
 
 ### A Student, Developer & Tech Enthusiast
 
-<img align="right" alt="GIF" src="coding-gif-tenor.gif" width="500" height="320" />
 
 <h2 align="center">About me 😇</h2>
 <p align="center">
-
 </p>
+
+<img align="right" alt="GIF" src="coding-gif-tenor.gif" width="500" height="320" />
 <br />
+
+###
 - 🙋‍♂️ I'm Computer Science Undergrad.
 - 💻 The tech I'm interested are Cloud Computing, Artificial Intelligence, Blockchain and Machine Learning.
 - ✨ I'm learning Web & Mobile App Development, React and much more.
