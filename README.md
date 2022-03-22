@@ -12,13 +12,11 @@
 <h2 align="center">About me 😇</h2>
 <p align="center">
 </p>
-<img align="right" alt="GIF" src="coding-gif-tenor.gif" width="350" height="220" />
+<img align="right" alt="GIF" src="coding-gif-tenor.gif" width="350" height="200" />
 
 ###
 - 🙋‍♂️ I'm Computer Science Undergrad.
-- 
 - ✨ I'm learning & working on "Web & Mobile App Development".
-- 
 - 💻 The tech I'm interested:
    - Cloud Computing. 
    - Machine Learning.
