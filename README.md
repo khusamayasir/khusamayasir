@@ -32,8 +32,8 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cplusplus" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png.png" alt="sql" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png.png" alt="mysql" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
@@ -49,13 +49,9 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khawaja Usama Yasir streak" src="https://github-readme-streak-stats.herokuapp.com/?user=khusamayasir&theme=gruvbox&hide_border=true"/>
     </a>
 </p>
-
----
-
-<br />
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khusamayasir&layout=compact&theme=gruvbox" width="400" />
-<img src="https://github-readme-stats.vercel.app/api?username=khusamayasir&theme=gruvbox&show_icons=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api?username=khusamayasir&theme=gruvbox&show_icons=true" width="400"/>
 </p>
 
 ---
