@@ -29,7 +29,7 @@
 <p>
 <h3 align="center"> Languages and Tools</h3>
 </p>
-<p align="Left">
+<p align="center">
 <a href="https://www.w3schools.com/cpp/cpp_getstarted.asp" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cplusplus" width="45" height="45"/>
 <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer">
