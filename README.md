@@ -54,22 +54,17 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux" width="45" height="45"/>
 </p>
 
----
 
-<br />
+<h3 align="Left">GitHub Statistics:</h3>
+
 <p align="center">
     <a href="https://github.com/khusamayasir/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khawaja Usama Yasir streak" src="https://github-readme-streak-stats.herokuapp.com/?user=khusamayasir&theme=gruvbox&hide_border=true"/>
     </a>
-</p>
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khusamayasir&layout=compact&theme=gruvbox" width="350" />
 <img src="https://github-readme-stats.vercel.app/api?username=khusamayasir&theme=gruvbox&show_icons=true" width="420"/>
 </p>
 
----
-
-<br />
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=khusamayasir">
  
