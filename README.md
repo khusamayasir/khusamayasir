@@ -1,6 +1,4 @@
-<p>
   <h1 align="center">Hi there I'm Khawaja Usama Yasir <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
-</p>
 
 
 <p align="center">
