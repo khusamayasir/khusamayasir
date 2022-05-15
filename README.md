@@ -11,15 +11,20 @@
    - Machine Learning.
    - Artificial Intelligence.
 
+---
 
 <p align="center">
-<h3 align="Left"> Connect with Me:</h3>
+<h2 align="Left"> Connect with Me:</h2>
 <a href="https://twitter.com/khusamayasir"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/khusamayasir/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
 <a href="https://www.facebook.com/khusamayasir"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://www.instagram.com/khusamayasir/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+</p>
 
-<h3 align="Left"> Languages and Tools:</h3>
+---
+
+<p align="center">
+<h2 align="Left"> Languages and Tools:</h2>
 <a href="https://www.w3schools.com/cpp/cpp_getstarted.asp" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cplusplus" width="45" height="45"/>
 <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer">
@@ -56,8 +61,7 @@
 
 ---
 
-<br />
-<h2 align="Left">GitHub Statistics:</h2>
+<h1 align="Left">GitHub Statistics:</h1>
 <p align="center">
     <a href="https://github.com/khusamayasir/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khawaja Usama Yasir streak" src="https://github-readme-streak-stats.herokuapp.com/?user=khusamayasir&theme=gruvbox&hide_border=true"/>
