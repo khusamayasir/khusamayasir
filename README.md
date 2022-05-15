@@ -22,6 +22,7 @@
 </p>
 
 <h2 align="center"> Languages and Tools</h2>
+<p align="left">
 <a href="https://www.w3schools.com/cpp/cpp_getstarted.asp" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cplusplus" width="45" height="45"/>
 <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer">
@@ -55,8 +56,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux" width="45" height="45"/>
 </p>
-
----
 
 <h1 align="Center">GitHub Statistics</h1>
 <p align="center">
