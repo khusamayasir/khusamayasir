@@ -11,6 +11,7 @@
    - Machine Learning.
    - Artificial Intelligence.
 
+## Connect with me:
 <p align="center">
 <a href="https://twitter.com/khusamayasir"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/khusamayasir/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
@@ -19,18 +20,8 @@
 </p>
 
 
-<h2 align="center">About me 😇</h2>
-<p align="center">
-</p>
-
-
- 
-
----
-
-<br />
 <p>
-<h3 align="center"> Languages and Tools</h3>
+<h3 align="Left"> Languages and Tools</h3>
 </p>
 <p align="center">
 <a href="https://www.w3schools.com/cpp/cpp_getstarted.asp" target="_blank" rel="noreferrer">
