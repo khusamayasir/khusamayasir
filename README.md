@@ -1,6 +1,6 @@
   <h1 align="center">Hi there I'm Khawaja Usama Yasir <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
 
-<img align="right" alt="GIF" src="coding-gif-soda.gif" width="200" height="250" />
+<img align="right" alt="GIF" src="coding-gif-soda.gif" width="250" height="250" />
 
 ###
 - 🙋‍♂️ I'm Computer Science Undergrad.
