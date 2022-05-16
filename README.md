@@ -1,16 +1,17 @@
   <h1 align="center">Hi there I'm Khawaja Usama Yasir <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
 
-<img align="right" src="me-coding.jpg"  alt="Pictue" width="350" height="400" />
+<img align="right" alt="GIF" src="coding-gif-soda.gif" width="350" height="200" />
 
 ###
 - 🙋‍♂️ I'm Computer Science Undergrad.
 - ✨ I'm learning & practising "Web & Mobile App Development".
 - 💻 The tech I'm interested:
-   - Metaverse
+   - Metaverse.
    - Cloud Computing. 
    - Machine Learning.
    - Artificial Intelligence.
    
+
 ---
 
 <h2 align="center"> Connect with Me</h2>
