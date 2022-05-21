@@ -68,8 +68,8 @@
 
 ---
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=khusamayasir">
+<a> <img src="https://komarev.com/ghpvc/?username=khusamayasir&label=Profile%20views&color=0e75b6&style=flat"
+    alt="khusamayasir" /> 
 </a>
 <a href="https://github.com/khusamayasir?tab=followers"><img src="https://img.shields.io/github/followers/khusamayasir?label=Followers&style=social" alt="GitHub Badge">
 </a>
