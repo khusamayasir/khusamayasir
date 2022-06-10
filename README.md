@@ -6,6 +6,7 @@
 - 🙋‍♂️ I'm Computer Science Undergrad.
 - ✨ I'm learning & practising "Web & Mobile App Development".
 - 💻 The tech I'm interested:
+   - DevOps
    - Metaverse.
    - Blockchain.
    - Cloud Computing. 
