@@ -4,7 +4,7 @@
 
 
 - 🙋‍♂️ I'm Computer Science Undergrad.
-- 🎉 #Completed100DaysofCode
+- 🎉 Completed100DaysofCode
 - ✨ I'm learning & practising "Web & Mobile App Development".
 - 💻 The tech I'm interested:
    - DevOps.
