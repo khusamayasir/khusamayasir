@@ -7,6 +7,7 @@
 - ✨ I'm learning & practising "Web & Mobile App Development".
 - 💻 The tech I'm interested:
    - Metaverse.
+   - Blockchain.
    - Cloud Computing. 
    - Machine Learning.
    - Artificial Intelligence.
