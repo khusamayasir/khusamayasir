@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="coding-gif-soda.gif" width="275" height="250" />
 
-###
+
 - 🙋‍♂️ I'm Computer Science Undergrad.
 - ✨ I'm learning & practising "Web & Mobile App Development".
 - 💻 The tech I'm interested:
