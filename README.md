@@ -69,13 +69,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=khusamayasir&theme=gruvbox&show_icons=true" width="420"/>
 </p>
 
-  <p>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=khusamayasir&theme=dark&background=09131B&date_format=M%20j%5B%2C%20Y%5D" alt="khusamayasir" />
-</p>
-  <img alt="khusamayasir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=khusamayasir&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="420" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khusamayasir&layout=compact&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="420" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=khusamayasir&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="100%"/>
-
 ---
 
 <a> <img src="https://komarev.com/ghpvc/?username=khusamayasir&label=Profile%20views&color=0e75b6&style=flat"
