@@ -70,10 +70,6 @@
 </p>
 
 ---
-<h1 align="Center">Coding Activity</h1>
-<a href="https://wakatime.com/@123e4bd5-09da-4250-b05c-75aef9ff3d0b"><img src="https://wakatime.com/badge/user/123e4bd5-09da-4250-b05c-75aef9ff3d0b.svg" alt="Total time coded since May 11 2022" /></a>
-
----
 <h1 align="Center">Visitor's Count & Followers</h1>
 <a> <img src="https://komarev.com/ghpvc/?username=khusamayasir&label=Profile%20views&color=0e75b6&style=flat"
     alt="khusamayasir" /> 
