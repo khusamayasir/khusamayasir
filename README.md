@@ -16,7 +16,7 @@
 
 ---
 
-<h2 align="center"> Connect with Me</h2>
+<h1 align="center"> Connect with Me</h1>
 <p align="center">
 <a href="https://twitter.com/khusamayasir"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/khusamayasir/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
@@ -24,7 +24,7 @@
 <a href="https://www.instagram.com/khusamayasir/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 </p>
 
-<h2 align="center"> Languages and Tools</h2>
+<h1 align="center"> Languages and Tools</h1>
 <p align="left">
 <a href="https://www.w3schools.com/cpp/cpp_getstarted.asp" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cplusplus" width="45" height="45"/>
@@ -70,7 +70,11 @@
 </p>
 
 ---
+<h1 align="Center">Coding Activity</h1>
+<a href="https://wakatime.com/@123e4bd5-09da-4250-b05c-75aef9ff3d0b"><img src="https://wakatime.com/badge/user/123e4bd5-09da-4250-b05c-75aef9ff3d0b.svg" alt="Total time coded since May 11 2022" /></a>
 
+---
+<h1 align="Center">Visitor's Count & Followers</h1>
 <a> <img src="https://komarev.com/ghpvc/?username=khusamayasir&label=Profile%20views&color=0e75b6&style=flat"
     alt="khusamayasir" /> 
 </a>
