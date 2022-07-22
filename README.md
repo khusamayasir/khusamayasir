@@ -14,8 +14,6 @@
    - Machine Learning.
    - Artificial Intelligence.
 
----
-
 <h1 align="center"> Connect with Me</h1>
 <p align="center">
 <a href="https://twitter.com/khusamayasir"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
@@ -69,11 +67,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=khusamayasir&theme=gruvbox&show_icons=true" width="420"/>
 </p>
 
----
 <h1 align="Center">Coding Activity</h1>
 <a href="https://wakatime.com/@6de2c190-3054-4520-aca4-08ad9610b0af"><img src="https://wakatime.com/badge/user/6de2c190-3054-4520-aca4-08ad9610b0af.svg" alt="Total time coded since Jul 22 2022" /></a>
 
----
 <h1 align="Center">Visitor's Count & Followers</h1>
 <a> <img src="https://komarev.com/ghpvc/?username=khusamayasir&label=Profile%20views&color=0e75b6&style=flat"
     alt="khusamayasir" /> 
