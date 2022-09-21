@@ -7,11 +7,10 @@
 - 🎉 Completed100DaysofCode here => <a href="https://www.instagram.com/usama.code/" target="_blank">usama.code</a>
 - ✨ I'm learning & practising "Web & Mobile App Development".
 - 💻 The tech I'm interested:
-   - DevOps.
    - Metaverse.
    - Blockchain.
    - Cloud Computing. 
-   - Machine Learning.
+   - Full Stack Development
    - Artificial Intelligence.
 
 <h1 align="center"> Connect with Me</h1>
