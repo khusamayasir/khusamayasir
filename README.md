@@ -15,10 +15,21 @@
 
 <h1 align="center"> Connect with Me</h1>
 <p align="center">
-<a href="https://twitter.com/khusamayasir"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/khusamayasir/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
-<a href="https://www.facebook.com/khusamayasir"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://www.instagram.com/khusamayasir/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+  <a href="https://github.com/khusamayasir?tab=followers">
+    <img src="https://img.shields.io/github/followers/khusamayasir?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>&nbsp;
+  <a href="http://twitter.com/khusamayasir" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/khusamayasir?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/khusamayasir/" target="_blank">
+    <img alt="Khawaja Usama Yasir | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.facebook.com/khusamayasir" target="_blank">
+    <img  alt="Khawaja Usama Yasir | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/khusamayasir" target="_blank">
+    <img alt="Khawaja Usama Yasir | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>&nbsp;
 </p>
 
 <h1 align="center"> Languages and Tools</h1>
