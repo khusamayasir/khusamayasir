@@ -16,13 +16,14 @@
 <h1 align="center"> Connect with Me</h1>
 <p align="center">
 
-  [![Github Badge](https://img.shields.io/github/followers/khusamayasir?label=GitHub&logo=GitHub&style=for-the-badge)](https://github.com/khusamayasir?tab=followers)&nbsp;
+ [![Github Badge](https://img.shields.io/github/followers/khusamayasir?label=GitHub&logo=GitHub&style=for-the-badge)](https://github.com/khusamayasir?tab=followers)&nbsp;
   [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khusamayasir/)
   [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?&style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/khusamayasir)](https://www.hackerrank.com/khusamayasir)
   [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/15072792/khusamayasir)](https://stackoverflow.com/users/15072792/khusamayasir)
   [![Twitter Badge](https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/khusamayasir/)](http://twitter.com/khusamayasir)
-  [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khusamayasir)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:usamayasir32@gmail.com)](mailto:usamayasir32@gmail.com)
+  [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khusamayasir)
+  [![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khusamayasir)
 </p>
 
 <h1 align="center"> Languages and Tools</h1>
