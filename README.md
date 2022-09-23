@@ -15,21 +15,15 @@
 
 <h1 align="center"> Connect with Me</h1>
 <p align="center">
-  <a href="https://github.com/khusamayasir?tab=followers">
-    <img src="https://img.shields.io/github/followers/khusamayasir?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>&nbsp;
-  <a href="http://twitter.com/khusamayasir" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/khusamayasir?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/khusamayasir/" target="_blank">
-    <img alt="Khawaja Usama Yasir | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://www.facebook.com/khusamayasir" target="_blank">
-    <img  alt="Khawaja Usama Yasir | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://www.instagram.com/khusamayasir" target="_blank">
-    <img alt="Khawaja Usama Yasir | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>&nbsp;
+
+  [![Github Badge](https://img.shields.io/github/followers/khusamayasir?label=GitHub&logo=GitHub&style=for-the-badge)](https://github.com/khusamayasir?tab=followers)&nbsp;
+  [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khusamayasir/)
+  [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/khusamayasir)](https://www.hackerrank.com/khusamayasir)
+  [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/15072792/khusamayasir)](https://stackoverflow.com/users/15072792/khusamayasir)
+  [![Twitter Badge](https://img.shields.io/twitter/follow/khusamayasir?label=Twitter&logo=twitter&style=for-the-badge)](http://twitter.com/khusamayasir)
+  [![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khusamayasir)
+  [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khusamayasir)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:usamayasir32@gmail.com)](mailto:usamayasir32@gmail.com)
 </p>
 
 <h1 align="center"> Languages and Tools</h1>
