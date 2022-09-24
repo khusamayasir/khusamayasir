@@ -78,5 +78,5 @@
 <a> <img src="https://komarev.com/ghpvc/?username=khusamayasir&style=for-the-badge&color=yellowgreen&label=Profile+Views"
     alt="khusamayasir" /> 
 </a>
-<a href="https://github.com/khusamayasir?tab=followers"><img src="https://img.shields.io/github/followers/khusamayasir?label=Followers&style=social" alt="GitHub Badge">
+<a href="https://github.com/khusamayasir?tab=followers"><img src="https://img.shields.io/github/followers/khusamayasir?label=Followers&style=for-the-badge" alt="GitHub Badge">
 </a>
