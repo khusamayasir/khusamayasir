@@ -75,10 +75,10 @@
 <a href="https://wakatime.com/@6de2c190-3054-4520-aca4-08ad9610b0af"><img src="https://wakatime.com/badge/user/6de2c190-3054-4520-aca4-08ad9610b0af.svg" alt="Total time coded since Jul 22 2022" /></a>
 
 <h1 align="Center">Visitor's Count & Followers</h1>
-<a> <img src="https://komarev.com/ghpvc/?username=khusamayasir&style=for-the-badge&color=yellowgreen&label=Profile+Views"
+<a> <img src="https://komarev.com/ghpvc/?username=khusamayasir&style=for-the-badge&color=red&label=Profile+Views"
     alt="khusamayasir" /> 
 </a>
-<a href="https://github.com/khusamayasir?tab=followers"><img src="https://img.shields.io/github/followers/khusamayasir?label=Followers&style=for-the-badge" alt="GitHub Badge">
+<a href="https://github.com/khusamayasir?tab=followers"><img src="https://img.shields.io/github/followers/khusamayasir?label=Followers&style=for-the-badge&color=red" alt="GitHub Badge">
 </a>
 
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
