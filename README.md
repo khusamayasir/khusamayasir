@@ -16,7 +16,7 @@
 <h1 align="center"> Connect with Me</h1>
 <p align="center">
 
- [![Github Badge](https://img.shields.io/github/followers/khusamayasir?label=GitHub&logo=GitHub&style=for-the-badge)](https://github.com/khusamayasir?tab=followers)&nbsp;
+ [![Github Badge](https://img.shields.io/github/followers/khusamayasir?label=GitHub&logo=GitHub&style=for-the-badge&color=red)](https://github.com/khusamayasir?tab=followers)&nbsp;
   [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khusamayasir/)
   [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?&style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/khusamayasir)](https://www.hackerrank.com/khusamayasir)
   [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/20068079/khusamayasir)](https://stackoverflow.com/users/20068079/khusamayasir)
