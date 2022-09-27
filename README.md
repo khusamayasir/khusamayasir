@@ -69,7 +69,7 @@
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khusamayasir&layout=compact&theme=gruvbox" width="350" />
   <img src="https://github-readme-stats.vercel.app/api?username=khusamayasir&theme=gruvbox&show_icons=true" width="420"/>
-  <a href="https://khusamayasir.github.io/"><img alt="Usama Yasir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khusamayasir&theme=gruvbox&show_icons=true&hide_border=false&title_color=fabd2f&icon_color=fe8019&bg_color=333333&text_color=8ec07c&border_color=0c1a25 "/>
+  <a href="https://khusamayasir.github.io/"><img alt="Usama Yasir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khusamayasir&theme=gruvbox&show_icons=true&hide_border=false&title_color=fabd2f&icon_color=fe8019&bg_color=333333&text_color=8ec07c&border_color=0c1a25"/>
   </a>
 </p>
 
