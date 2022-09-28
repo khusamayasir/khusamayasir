@@ -82,4 +82,4 @@
 <a href="https://github.com/khusamayasir?tab=followers"><img src="https://img.shields.io/github/followers/khusamayasir?label=Followers&style=for-the-badge&color=red" alt="GitHub Badge">
 </a>
 
-<h3 align="center">Show some ❤️ by starring some of the repositories</h3>
+<h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
